@@ -1,0 +1,28 @@
+MeadowRealm — Stillwater Gate
+Free development preview — 18 October 2026
+
+This download is provided for playing and evaluating this development preview.
+You may install and run the complete game on your own compatible computers.
+No payment, subscription or account is required by this preview.
+
+The Unreal Engine technology and third-party content are licensed only as
+incorporated into this game in compiled form, inseparable from the game, and
+only as needed to play it. No right is granted to extract the engine or assets,
+redistribute them as standalone resources, or incorporate them into another
+product. The applicable rights in third-party content remain with their owners.
+See CREDITS.md and the accompanying third-party notices.
+
+The game and its incorporated Unreal Engine technology are supplied as is and
+as available. To the extent permitted by applicable law, the developer and
+the engine and content licensors disclaim representations, warranties and
+conditions of any kind relating to that technology, including merchantability,
+fitness for a particular purpose, title and non-infringement. No uninterrupted,
+error-free, secure or production-ready operation is promised. To the extent
+permitted by applicable law, they disclaim liability arising from the use or
+inability to use the licensed technology. These provisions do not exclude
+rights or liabilities that applicable law does not permit to be excluded.
+
+Profile choices are saved locally. Local/direct-address sessions communicate
+with the host and other participants. Microphone use is off by default and
+requires enabling Voice and holding the push-to-talk key. This preview has no
+account service, public matchmaking relay or persistent hosted world.
