@@ -8,6 +8,8 @@ Walk through a meadow sanctuary framed by forest, cliffs, waterfalls and distant
 
 Extract the complete download before launching `MeadowRealm.exe`. Keep the accompanying folders beside the executable. If the download is split into numbered 7-Zip volumes, place every volume in the same folder and extract the `.7z.001` file with 7-Zip.
 
+If Windows reports a missing Microsoft Visual C++ runtime, the included x64 installer is `Engine/Extras/Redist/en-us/vc_redist.x64.exe`.
+
 This is a demanding desktop scene. A DirectX 12 graphics device with Shader Model 6 support is required. Minimum hardware and stable performance targets have not been established.
 
 ## Controls
